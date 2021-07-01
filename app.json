@@ -1,0 +1,12 @@
+{
+  "name": "react-native-int-chal",
+  "displayName": "react-native-int-chal",
+  "expo": {
+    "name": "react-native-int-chal",
+    "slug": "react-native-int-chal",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
